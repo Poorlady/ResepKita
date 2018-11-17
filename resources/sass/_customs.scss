@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+.cardbox{
+    margin: 10px 0;
+}
+.lecard{
+    height: 187px;
+    max-height: 200px;
+}
+
+//login page
+.login{
+    margin-top: 0.9375em;
+}
+.loginbox{
+    margin-top: 0.9375em;
+}
+.loginbtn{
+    width: 100%;
+}
+.regbox .registerbtn{
+    width: 80%;
+    background-color: orangered;
+    color: white;
+    margin: 2.5em auto;
+    display: block;
+}
+.regbox{
+    margin-top: 0.9375em;
+    border-left-style: solid;
+    border-width: 1px;
+}
+
+//register page
+.registbtn{
+    float: right;
+    width: 20%;
+    margin: 35px 0;
+    
+}
+
+
+//index  web page
+.btnsearch{
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+.searchbar{
+    width: 100%;
+}
+
